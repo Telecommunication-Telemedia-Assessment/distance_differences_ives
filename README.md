@@ -5,7 +5,8 @@ It is designed to investigate shifts between a real object and the virtual repli
 
 ## Requirements
 This project is designed for Unity version 2019.2.0f1. Other releases have not been tested.
-This project was developed for the HTC Vive Pro Head-Mounted Display and a HTC Vive Tracker (2018). Other versions have not been tested.
+This project was developed for the HTC Vive Pro Head-Mounted Display and a HTC Vive Tracker (2018).
+Other versions have not been tested.
 
 ## Configuration
 To run this project, a HTC Vive Tracker, HTC Vive Controllers and a HTC Vive Pro are needed.

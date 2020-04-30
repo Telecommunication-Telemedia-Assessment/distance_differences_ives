@@ -4,7 +4,7 @@ This repository contains the Unity project of the paper with the title "Developm
 It is designed to investigate shifts between a real object and the virtual replication of that object in immersive virtual environments (IVE) of the same size.
 
 ## Requirements
-This project is designed for Unity version 2019.2.0f1.
+This project is designed for Unity version 2019.2.0f1 using Windows 10.
 It also has been tested with Unity version 2019.3.11f1 using Windows 10.
 Other Unity versions have not been tested.
 This project was developed for the HTC Vive Pro Head-Mounted Display and a HTC Vive Tracker (2018).

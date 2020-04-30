@@ -4,9 +4,10 @@ This repository contains the Unity project of the paper with the title "Developm
 It is designed to investigate shifts between a real object and the virtual replication of that object in immersive virtual environments (IVE) of the same size.
 
 ## Requirements
-This project is designed for Unity version 2019.2.0f1. Other releases have not been tested.
+This project is designed for Unity version 2019.2.0f1.
+It also has been tested with Unity version 2019.3.11f1 using Windows 10.
+Other Unity versions have not been tested.
 This project was developed for the HTC Vive Pro Head-Mounted Display and a HTC Vive Tracker (2018).
-Other versions have not been tested.
 
 ## Configuration
 To run this project, a HTC Vive Tracker, HTC Vive Controllers and a HTC Vive Pro are needed.
@@ -15,7 +16,7 @@ If you want to make exactly the same objects used in the paper's study, please f
 * Open cylinder (fixed on the table): 8.5 cm diameter, 3 cm height
 * Closed cylinder (interactable object): 8 cm diameter, 12 cm height
 
-To run the project, open the file `distance_differences_ives.unitypackage` with Unity.
+To get the project running, create a new project and import the `distance_differences_ives.unitypackage` in Unity (Assets >> Import Package).
 
 ## License
 This work is licensed under GNU General Public License v3.0. See LICENSE for licensing issues and details.

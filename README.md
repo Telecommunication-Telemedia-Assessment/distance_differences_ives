@@ -13,8 +13,8 @@ This project was developed for the HTC Vive Pro Head-Mounted Display and a HTC V
 To run this project, a HTC Vive Tracker, HTC Vive Controllers and a HTC Vive Pro are needed.
 
 If you want to make exactly the same objects used in the paper's study, please find the dimensions here:
-* Open cylinder (fixed on the table): 8.5 cm diameter, 3 cm height
-* Closed cylinder (interactable object): 8 cm diameter, 12 cm height
+* Open cylinder (fixed on the table): 10.1 cm diameter, 3.8 cm height
+* Closed cylinder (interactable object): 8.4 cm diameter, 11.7 cm height
 
 To get the project running, create a new project and import the `distance_differences_ives.unitypackage` in Unity (Assets >> Import Package).
 

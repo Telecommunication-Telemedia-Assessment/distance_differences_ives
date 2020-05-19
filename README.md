@@ -3,6 +3,10 @@ This repository contains the Unity project of the paper with the title "Developm
 
 It is designed to investigate shifts between a real object and the virtual replication of that object in immersive virtual environments (IVE) of the same size.
 
+## Clone repository
+As this repository makes use of Git LFS (cf. https://git-lfs.github.com), you probably need to run `git lfs install` once before cloning (if not already done before).
+This assures that all files of this repository are getting cloned properly.
+
 ## Requirements
 This project is designed for Unity version 2019.2.0f1 using Windows 10.
 It also has been tested with Unity version 2019.3.11f1 using Windows 10.

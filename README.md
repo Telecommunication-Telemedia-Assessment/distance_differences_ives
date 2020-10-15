@@ -3,9 +3,8 @@ This repository contains the Unity project of the paper with the title "Developm
 
 It is designed to investigate shifts between a real object and the virtual replication of that object in immersive virtual environments (IVE) of the same size.
 
-## Clone repository
-As this repository makes use of Git LFS (cf. https://git-lfs.github.com), you probably need to run `git lfs install` once before cloning (if not already done before).
-This assures that all files of this repository are getting cloned properly.
+## Download Unity3D package
+Please download the required Unity3D package here: [http://avtshare01.rz.tu-ilmenau.de/distance_differences_ives/distance_differences_ives.unitypackage](http://avtshare01.rz.tu-ilmenau.de/distance_differences_ives/distance_differences_ives.unitypackage)
 
 ## Requirements
 This project is designed for Unity version 2019.2.0f1 using Windows 10.

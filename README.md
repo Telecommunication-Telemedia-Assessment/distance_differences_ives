@@ -4,7 +4,7 @@ This repository contains the Unity project of the paper with the title "Developm
 It is designed to investigate shifts between a real object and the virtual replication of that object in immersive virtual environments (IVE) of the same size.
 
 ## Download Unity3D package
-Please download the required Unity3D package here: [http://avtshare01.rz.tu-ilmenau.de/distance_differences_ives/distance_differences_ives.unitypackage](http://avtshare01.rz.tu-ilmenau.de/distance_differences_ives/distance_differences_ives.unitypackage)
+Please download the required Unity3D package here: [https://doi.org/10.5281/zenodo.4090934](https://doi.org/10.5281/zenodo.4090934)
 
 ## Requirements
 This project is designed for Unity version 2019.2.0f1 using Windows 10.
@@ -20,9 +20,6 @@ If you want to make exactly the same objects used in the paper's study, please f
 * Closed cylinder (interactable object): 8.4 cm diameter, 11.7 cm height
 
 To get the project running, create a new project and import the `distance_differences_ives.unitypackage` in Unity (Assets >> Import Package).
-
-## License
-This work is licensed under GNU General Public License v3.0. See LICENSE for licensing issues and details.
 
 ## Acknowledgements
 If you use any or parts of the Unity project or parts of it, please cite the following paper or include a link to this repository.
